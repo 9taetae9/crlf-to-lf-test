@@ -1,3 +1,5 @@
 This is a test. crlf file.
 second line.
-third line.
+3
+4
+5
