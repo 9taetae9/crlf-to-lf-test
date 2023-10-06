@@ -1,5 +1,1 @@
-This is a test.
-sdflksadjfslkajfsalkdjfsldk
-sdlafjsdalkjfsalkdjfsdalkjfsldajf
-safdsadfsafsadsfsadfsa
-sadfsd
+This is a test. crlf file.
