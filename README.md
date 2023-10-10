@@ -24,6 +24,8 @@ Git은 다양한 시스템 간의 일관된 동작을 보장하기 위해 줄 �
 
 목표
 Git의 줄 끝 처리 형식이 올바르게 설정되어 있는지 확인함을 통해 다양한 플랫폼 간의 더 부드러운 협업을 보장하고 코드베이스의 무결성을 유지할 수 있습니다.
+![Uploading image.png…]()
+
 
 A test repository to experiment with and verify Git's line-ending configurations, ensuring a transformation from CRLF to LF upon commits.
 
